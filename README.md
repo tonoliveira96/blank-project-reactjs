@@ -7,9 +7,9 @@
 
 
 Este repósitório é a base que uso para iniciar um projeto em ReactJS. Neste projeto ja estão configurados 
--ESLINT
--Prettier
--EditComfig
+- ESLINT
+- Prettier
+- EditComfig
 
 # Instalação
 
